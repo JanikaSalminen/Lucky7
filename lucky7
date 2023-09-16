@@ -58,7 +58,7 @@ public class loops {
 			}
 			
 		}
-			//No money left, stop the game
+			//No money left, stop the game.
 			System.out.println("Game over. You ran out of money.");
 			
 	        // Close the scanner
